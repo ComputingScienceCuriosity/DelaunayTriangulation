@@ -1,0 +1,33 @@
+   Triangulation de Delaunay2D ImageDEV
+   Nombre des Vertexes 18
+   Nombre des Triangles de Delaunay 6
+   Triangle 2D
+     vertex 1800.000000 0.000000 
+     vertex 0.000000 1800.000000 
+     vertex -1800.000000 -1800.000000 
+   Fin Triangle 2D
+   Triangle 2D
+     vertex 1800.000000 0.000000 
+     vertex 97.000000 130.000000 
+     vertex 0.000000 1800.000000 
+   Fin Triangle 2D
+   Triangle 2D
+     vertex 1800.000000 0.000000 
+     vertex 0.000000 1800.000000 
+     vertex 97.000000 130.000000 
+   Fin Triangle 2D
+   Triangle 2D
+     vertex 1800.000000 0.000000 
+     vertex 97.000000 130.000000 
+     vertex -1800.000000 -1800.000000 
+   Fin Triangle 2D
+   Triangle 2D
+     vertex 97.000000 130.000000 
+     vertex 298.000000 331.000000 
+     vertex 0.000000 1800.000000 
+   Fin Triangle 2D
+   Triangle 2D
+     vertex 91.000000 122.000000 
+     vertex 135.000000 408.000000 
+     vertex -1800.000000 -1800.000000 
+   Fin Triangle 2D
